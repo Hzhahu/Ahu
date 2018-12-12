@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="pauses_after">
+        <item quantity="one">Met en pause après %d minute.</item>
+        <item quantity="other">Met en pause après %d minutes.</item>
+    </plurals>
+    <plurals name="pref_auto_rewind_summary">
+        <item quantity="one">Rembobine automatiquement de %d seconde après une pause manuelle.</item>
+        <item quantity="other">Rembobine automatiquement de %d secondes après une pause manuelle.</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="one">%d seconde</item>
+        <item quantity="other">%d secondes</item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Revenir à l\'accueil"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Revenir en haut de la page"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Plus d\'options"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"OK"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Tout afficher"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Sélectionner une application"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DÉSACTIVÉ"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ACTIVÉ"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"supprimer"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"entrée"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Fonction+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Méta+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Maj+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"espace"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Rechercher…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Effacer la requête"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Requête de recherche"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Rechercher"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Envoyer la requête"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Recherche vocale"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Partager avec"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Partager avec <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Réduire"</string>
+    <string name="acc_button_add_bookmark">Ajouter un marque-page à la position actuelle</string>
+    <string name="action_settings">Préférences</string>
+    <string name="action_sleep">Minuteur</string>
+    <string name="action_time_change">Aller à</string>
+    <string name="adding_failed_subfolder">Les dossiers ne doivent pas être des sous-dossiers l\'un de l\'autre :</string>
+    <string name="audiobook_folders_title">Dossiers de livres audio</string>
+    <string name="bookmark">Marque-page</string>
+    <string name="bookmark_added">Marque-page ajouté</string>
+    <string name="bookmark_delete_title">Supprimer ce marque-page ?</string>
+    <string name="bookmark_edit_hint">Nom du marque-page</string>
+    <string name="bookmark_edit_title">Modifier le marque-page</string>
+    <string name="change_book_name">Nom</string>
+    <string name="chosen_folder_description">Dossier choisi :</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"L\'application <ns1:g id="APP_NAME">%1$s</ns1:g> rencontre des problèmes avec les services Google Play. Veuillez réessayer."</string>
+    <string name="content_add_book">Ajouter un livre</string>
+    <string name="content_cover">Montre la couverture à choisir</string>
+    <string name="content_current_book">Ceci est le livre en cours</string>
+    <string name="content_is_file">Fichier</string>
+    <string name="content_is_folder">Dossier</string>
+    <string name="content_navigate_up">Aller au dossier parent</string>
+    <string name="content_next_cover">Choisis la couverture suivante</string>
+    <string name="content_previous_cover">Choisis la couverture précédente</string>
+    <string name="cover">Couverture</string>
+    <string name="cover_crop">Recadrer la couverture</string>
+    <string name="current_book">Livre en cours</string>
+    <string name="delete_folder">Enlever de la bibliothèque ?</string>
+    <string name="delete_folder_content">Voulez vous enlever le dossier suivant de la bibliothèque ?</string>
+    <string name="delete_last_number">Supprime le dernier nombre saisi</string>
+    <string name="dialog_cancel">Annuler</string>
+    <string name="dialog_confirm">Définir</string>
+    <string name="dialog_no">Non</string>
+    <string name="download_book_cover">Couverture depuis internet</string>
+    <string name="edit_book_title">Modifier le livre</string>
+    <string name="equalizer">Egaliseur</string>
+    <string name="fast_forward">Avance rapide</string>
+    <string name="folder_add_collection">Dossier de plusieurs livres</string>
+    <string name="folder_add_single_book">Livre simple</string>
+    <string name="for_example">par ex.</string>
+    <string name="min">%s min</string>
+    <string msgid="1685185767093348095" name="mr_button_content_description">"Icône Cast"</string>
+    <string msgid="1350095112462806159" name="mr_cast_button_connected">"Icône Cast. Connecté"</string>
+    <string msgid="8959304318293841992" name="mr_cast_button_connecting">"Icône Cast. Connexion…"</string>
+    <string msgid="5501231066847739632" name="mr_cast_button_disconnected">"Icône Cast. Déconnecté"</string>
+    <string msgid="5504553798429329689" name="mr_chooser_searching">"Recherche d\'appareils…"</string>
+    <string msgid="7548226170787476564" name="mr_chooser_title">"Caster sur"</string>
+    <string msgid="5813284753012893250" name="mr_controller_album_art">"Image de l\'album"</string>
+    <string msgid="5286734709674025661" name="mr_controller_casting_screen">"Diffusion de l\'écran…"</string>
+    <string msgid="5468775621814500662" name="mr_controller_close_description">"Fermer"</string>
+    <string msgid="5518911192681928413" name="mr_controller_collapse_group">"Réduire"</string>
+    <string msgid="1370654436555555647" name="mr_controller_disconnect">"Déconnecter"</string>
+    <string msgid="2422682304043876468" name="mr_controller_expand_group">"Développer"</string>
+    <string msgid="7299368841849988218" name="mr_controller_no_info_available">"Aucune information disponible"</string>
+    <string msgid="4342878516155861006" name="mr_controller_no_media_selected">"Aucun contenu multimédia sélectionné"</string>
+    <string msgid="4701315813294065305" name="mr_controller_pause">"Pause"</string>
+    <string msgid="4443315438268112801" name="mr_controller_play">"Lecture"</string>
+    <string msgid="5106056093749454009" name="mr_controller_stop">"Arrêt"</string>
+    <string msgid="7617024847862349259" name="mr_controller_stop_casting">"Arrêter la diffusion"</string>
+    <string msgid="691656961160498512" name="mr_controller_volume_slider">"Curseur de volume"</string>
+    <string msgid="3117964881088969586" name="mr_system_route_name">"Système"</string>
+    <string msgid="8236416097133080726" name="mr_user_route_category_name">"Appareils"</string>
+    <string name="network_top">Ca n\'a pas marché…</string>
+    <string name="next_track">Piste suivante</string>
+    <string name="no_external_storage">Le stockage externe n\'est pas disponible. Assurez vous qu\'il est connecté et n\'est pas monté sur votre ordinateur.</string>
+    <string name="no_external_storage_action_bar_title">Stockage externe</string>
+    <string name="no_network">Pas de connexion réseau ?</string>
+    <string name="pause">Pause</string>
+    <string name="permission_external_new_explanation">Impossible de lire des livres sans autorisation</string>
+    <string name="permission_goto_settings">Paramètres</string>
+    <string name="permission_read_ext_explanation">L\'application a besoin de pouvoir parcourir vos fichiers pour trouver et lire les livres audio.</string>
+    <string name="permission_read_ext_request">Devons nous redemander la permission plus tard ?</string>
+    <string name="permission_rescan">Redemander plus tard</string>
+    <string name="permission_retry">Réessayer ?</string>
+    <string name="pick_book_cover">Couverture depuis l\'arborescence</string>
+    <string name="play">Lecture</string>
+    <string name="play_current">Lire l\'actuel</string>
+    <string name="play_pause">Lecture / Pause</string>
+    <string name="playback_speed">Vitesse de lecture</string>
+    <string name="popup_edit">Modifer</string>
+    <string name="pref_auto_rewind_title">Rembobinage automatique</string>
+    <string name="pref_resume_after_call">Reprendre après l\'appel</string>
+    <string name="pref_resume_after_call_hint">Reprend la lecture après un appel</string>
+    <string name="pref_resume_on_replug">Reprendre la lecture</string>
+    <string name="pref_resume_on_replug_hint">Si vous avez mis en pause en débranchant le casque, la lecture reprendra en le rebranchant.</string>
+    <string name="pref_root_folder_summary">Les dossiers de livres audio sélectionnés.</string>
+    <string name="pref_root_folder_title">Dossier de livre audio</string>
+    <string name="pref_seek_time">Sauter de</string>
+    <string name="pref_support_contribute">Assistance et suggestions</string>
+    <string name="pref_support_title">Assistance</string>
+    <string name="pref_support_translations">Traductions</string>
+    <string name="pref_theme_day">Jour</string>
+    <string name="pref_theme_daynight">Jour / Nuit</string>
+    <string name="pref_theme_night">Nuit</string>
+    <string name="pref_theme_title">Thème</string>
+    <string name="previous_track">Piste précédente</string>
+    <string name="refresh">Rafraîchir</string>
+    <string name="remove">Enlever</string>
+    <string name="reset">Réinitialiser</string>
+    <string name="rewind">Rembobiner</string>
+    <string msgid="368094699078615544" name="s1">"Enregistrer l\'image"</string>
+    <string msgid="4550830452390689489" name="s2">"Autoriser l\'annonce à stocker l\'image dans la galerie d\'images ?"</string>
+    <string msgid="2435407834265420668" name="s3">"Accepter"</string>
+    <string msgid="9167523597401839819" name="s4">"Refuser"</string>
+    <string msgid="1566682516266724847" name="s5">"Créer un événement d\'agenda"</string>
+    <string msgid="5996672174517137271" name="s6">"Autoriser l\'annonce à créer un événement d\'agenda ?"</string>
+    <string msgid="7163549807207034258" name="s7">"Annonce test"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Rechercher"</string>
+    <string name="shake_to_reset">Agitez pour réinitialiser</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_all">Tous</string>
+    <string name="storage_pre_device">Stockage :</string>
+    <string name="volume_boost">Booster le volume</string>
+</resources>

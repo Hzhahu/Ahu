@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="pauses_after">
+        <item quantity="one">Минава на паузла след %d минута.</item>
+        <item quantity="other">Минава на пауза след %d минути.</item>
+    </plurals>
+    <plurals name="pref_auto_rewind_summary">
+        <item quantity="one">Автоматично пренавива %d секунда след ръчно паузиране</item>
+        <item quantity="other">Автоматично пренавива %d секунди след ръчно поставяне на пауза.</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="one">%d секунда</item>
+        <item quantity="other">%d секунди</item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Придвижване към „Начало“"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Придвижване нагоре"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Още опции"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Вижте всички"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Изберете приложение"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ИЗКЛ."</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ВКЛ."</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"клавиша за интервал"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Търсете…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Изчистване на заявката"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Заявка за търсене"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Търсене"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Изпращане на заявката"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Гласово търсене"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Споделяне със:"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Споделяне със: <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Свиване"</string>
+    <string name="acc_button_add_bookmark">Добавя отметка на сегашното местоположение</string>
+    <string name="action_settings">Настройки</string>
+    <string name="action_sleep">Таймер за пауза</string>
+    <string name="action_time_change">Прескочи до</string>
+    <string name="adding_failed_subfolder">Папките не могат да бъдат подпапки една на друга</string>
+    <string name="audiobook_folders_title">Папка за аудио книги</string>
+    <string name="bookmark">Отметка</string>
+    <string name="bookmark_added">Отметката бе добавена</string>
+    <string name="bookmark_delete_title">Да се изтрие ли тази отметка?</string>
+    <string name="bookmark_edit_hint">Име на отметката</string>
+    <string name="bookmark_edit_title">Редактиране на отметка</string>
+    <string name="change_book_name">Заглавие</string>
+    <string name="chosen_folder_description">Избрана папка:</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> има проблеми с услугите за Google Play. Моля, опитайте отново."</string>
+    <string name="content_add_book">Добавяне на книга</string>
+    <string name="content_cover">Избор на обложка</string>
+    <string name="content_current_book">Това е текущата книга</string>
+    <string name="content_is_file">Файл</string>
+    <string name="content_is_folder">Папка</string>
+    <string name="content_navigate_up">Към главната папка</string>
+    <string name="content_next_cover">Избира следващата обложка</string>
+    <string name="content_previous_cover">Избира предишната обложка</string>
+    <string name="cover">Обложка</string>
+    <string name="cover_crop">Изрязване на обложката</string>
+    <string name="current_book">Текуща книга</string>
+    <string name="delete_folder">Отстраняване от Библиотеката?</string>
+    <string name="delete_folder_content">Желаете ли да премахнете следната папка от Библиотеката?</string>
+    <string name="delete_last_number">Изтрива последно въведения номер</string>
+    <string name="dialog_cancel">Не</string>
+    <string name="dialog_confirm">Да</string>
+    <string name="dialog_no">Не</string>
+    <string name="download_book_cover">Обложка от интернет</string>
+    <string name="edit_book_title">Редактиране на книга</string>
+    <string name="equalizer">Еквилайзер</string>
+    <string name="fast_forward">Прескачане напред</string>
+    <string name="folder_add_collection">Папка с множество книги</string>
+    <string name="folder_add_single_book">Единична книга</string>
+    <string name="for_example">например</string>
+    <string name="min">%s мин</string>
+    <string msgid="1685185767093348095" name="mr_button_content_description">"Бутон за предаване"</string>
+    <string msgid="1350095112462806159" name="mr_cast_button_connected">"Бутон за предаване. Установена е връзка"</string>
+    <string msgid="8959304318293841992" name="mr_cast_button_connecting">"Бутон за предаване. Установява се връзка"</string>
+    <string msgid="5501231066847739632" name="mr_cast_button_disconnected">"Бутон за предаване. Връзката е прекратена"</string>
+    <string msgid="5504553798429329689" name="mr_chooser_searching">"Търсят се устройства"</string>
+    <string msgid="7548226170787476564" name="mr_chooser_title">"Предаване към"</string>
+    <string msgid="5813284753012893250" name="mr_controller_album_art">"Обложка на албума"</string>
+    <string msgid="5286734709674025661" name="mr_controller_casting_screen">"Екранът се предава"</string>
+    <string msgid="5468775621814500662" name="mr_controller_close_description">"Затваряне"</string>
+    <string msgid="5518911192681928413" name="mr_controller_collapse_group">"Свиване"</string>
+    <string msgid="1370654436555555647" name="mr_controller_disconnect">"Прекратяване на връзката"</string>
+    <string msgid="2422682304043876468" name="mr_controller_expand_group">"Разгъване"</string>
+    <string msgid="7299368841849988218" name="mr_controller_no_info_available">"Няма налична информация"</string>
+    <string msgid="4342878516155861006" name="mr_controller_no_media_selected">"Няма избрана мултимедия"</string>
+    <string msgid="4701315813294065305" name="mr_controller_pause">"Поставяне на пауза"</string>
+    <string msgid="4443315438268112801" name="mr_controller_play">"Възпроизвеждане"</string>
+    <string msgid="5106056093749454009" name="mr_controller_stop">"Спиране"</string>
+    <string msgid="7617024847862349259" name="mr_controller_stop_casting">"Спиране на предаването"</string>
+    <string msgid="691656961160498512" name="mr_controller_volume_slider">"Плъзгач за силата на звука"</string>
+    <string msgid="3117964881088969586" name="mr_system_route_name">"Система"</string>
+    <string msgid="8236416097133080726" name="mr_user_route_category_name">"Устройства"</string>
+    <string name="music_notification">Възпроизвеждане</string>
+    <string name="network_top">Това май не проработи…</string>
+    <string name="next_track">Следващ запис</string>
+    <string name="no_external_storage">Външното хранилище не е достъпно. Моля уверете се че не е свързано и не се ползва от компютъра Ви.</string>
+    <string name="no_external_storage_action_bar_title">Външно хранилище</string>
+    <string name="no_network">Няма връзка с интернет?</string>
+    <string name="onboarding_content">Нека започнем като добавим първата Ви аудиокнига.</string>
+    <string name="onboarding_title">Добре дошли!</string>
+    <string name="pause">Пауза</string>
+    <string name="permission_external_new_explanation">Не могат да се разчитат книги без позволение</string>
+    <string name="permission_goto_settings">Настройки</string>
+    <string name="permission_read_ext_explanation">За да може това приложение да намери и възпроизведе аудио книги му е нужен достъп до хранилището Ви.</string>
+    <string name="permission_read_ext_request">Да помолим ли отново за Позволението?</string>
+    <string name="permission_rescan">Повторно поискване</string>
+    <string name="permission_retry">Повторен опит?</string>
+    <string name="pick_book_cover">Обложка от хранилището</string>
+    <string name="play">Възпроизвеждане</string>
+    <string name="play_current">Възпроизвеждане на текущата</string>
+    <string name="play_pause">Възпроизвеждане / Пауза</string>
+    <string name="playback_speed">Скорост на възпроизвеждане</string>
+    <string name="popup_edit">Редактиране</string>
+    <string name="pref_auto_rewind_title">Авто пренавиване</string>
+    <string name="pref_resume_after_call">Възобновяване след обаждане</string>
+    <string name="pref_resume_after_call_hint">Продължаване на възпроизвеждането след обаждане.</string>
+    <string name="pref_resume_on_replug">Продължи възпроизвеждането</string>
+    <string name="pref_resume_on_replug_hint">Ако паузата е била пусната от изваждането на слушалки, възпроизвеждането ще продължи при повторното им включване.</string>
+    <string name="pref_root_folder_summary">Списък на папки с аудио книги.</string>
+    <string name="pref_root_folder_title">Папка с аудио книги</string>
+    <string name="pref_seek_time">Количестество на прескачане</string>
+    <string name="pref_support_contribute">Поддръжка и предложения</string>
+    <string name="pref_support_title">Поддръжка</string>
+    <string name="pref_support_translations">Преводи</string>
+    <string name="pref_theme_day">Ден</string>
+    <string name="pref_theme_daynight">Ден/нощ</string>
+    <string name="pref_theme_night">Нощ</string>
+    <string name="pref_theme_title">Фон на приложението</string>
+    <string name="previous_track">Предишен запис</string>
+    <string name="refresh">Опресняване</string>
+    <string name="remove">Премахване</string>
+    <string name="reset">Нулиране</string>
+    <string name="rewind">Пренавиване</string>
+    <string msgid="368094699078615544" name="s1">"Запазване на изображението"</string>
+    <string msgid="4550830452390689489" name="s2">"Да се разреши ли на рекламата да съхрани изображение в галерията със снимки?"</string>
+    <string msgid="2435407834265420668" name="s3">"Приемам"</string>
+    <string msgid="9167523597401839819" name="s4">"Отхвърлям"</string>
+    <string msgid="1566682516266724847" name="s5">"Създаване на събитие в календара"</string>
+    <string msgid="5996672174517137271" name="s6">"Да се разреши ли на рекламата да създаде събитие в календара?"</string>
+    <string msgid="7163549807207034258" name="s7">"Тестова реклама"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Търсене"</string>
+    <string name="shake_to_reset">Разклатете за нулиране</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_all">Всички</string>
+    <string name="storage_pre_device">Хранилище</string>
+    <string name="volume_boost">Усилване на звука</string>
+</resources>

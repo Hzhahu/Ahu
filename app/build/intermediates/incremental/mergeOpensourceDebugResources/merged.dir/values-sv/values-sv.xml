@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="pauses_after">
+        <item quantity="one">Pausar efter %d minut.</item>
+        <item quantity="other">Pausar efter %d minuter.</item>
+    </plurals>
+    <plurals name="pref_auto_rewind_summary">
+        <item quantity="one">Spolas automatiskt %d sekund efter manuell paus.</item>
+        <item quantity="other">Spolas automatiskt %d sekunder efter manuell paus.</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="one">%d sekund</item>
+        <item quantity="other">%d sekunder</item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Visa startsidan"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navigera uppåt"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Fler alternativ"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Klart"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Visa alla"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Välj en app"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"AV"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"PÅ"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt + "</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl + "</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"retur"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Funktion + "</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta + "</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Skift + "</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"blanksteg"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Symbol + "</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Meny + "</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Sök …"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Ta bort frågan"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Sökfråga"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Sök"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Skicka fråga"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Röstsökning"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Dela med"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Dela med <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Komprimera"</string>
+    <string name="acc_button_add_bookmark">Lägg till ett bokmärke vid nuvarande position</string>
+    <string name="action_settings">Inställningar</string>
+    <string name="action_sleep">Insomningstidtagare</string>
+    <string name="action_time_change">Hoppa till</string>
+    <string name="adding_failed_subfolder">Mapparna får inte vara en undermapp till varandra:</string>
+    <string name="audiobook_folders_title">Ljudboksmappar</string>
+    <string name="bookmark">Bokmärke</string>
+    <string name="bookmark_added">Bokmärket tillagt</string>
+    <string name="bookmark_delete_title">Ta bort detta bokmärke?</string>
+    <string name="bookmark_edit_hint">Namn på bokmärket</string>
+    <string name="bookmark_edit_title">Ändra bokmärke</string>
+    <string name="change_book_name">Namn</string>
+    <string name="chosen_folder_description">Vald mapp:</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Det har uppstått ett fel mellan <ns1:g id="APP_NAME">%1$s</ns1:g> och Google Play-tjänsterna. Försök igen."</string>
+    <string name="content_add_book">Lägg till en bok</string>
+    <string name="content_cover">Visa omslag att välja</string>
+    <string name="content_current_book">Detta är den aktuella boken</string>
+    <string name="content_is_file">Fil</string>
+    <string name="content_is_folder">Mapp</string>
+    <string name="content_navigate_up">Gå till överordnad mapp</string>
+    <string name="content_next_cover">Väljer nästa omslag</string>
+    <string name="content_previous_cover">Väljer föregående omslag</string>
+    <string name="cover">Omslag</string>
+    <string name="cover_crop">Beskär omslag</string>
+    <string name="current_book">Aktuella boken</string>
+    <string name="delete_folder">Ta bort från bibliotek?</string>
+    <string name="delete_folder_content">Vill du ta bort följande mappen från biblioteket?</string>
+    <string name="delete_last_number">Tar bort det senast angivna numret</string>
+    <string name="dialog_cancel">Avbryt</string>
+    <string name="dialog_confirm">Ställ in</string>
+    <string name="dialog_no">Nej</string>
+    <string name="download_book_cover">Omslag från Internet</string>
+    <string name="edit_book_title">Ändra bok</string>
+    <string name="equalizer">Utjämnare</string>
+    <string name="fast_forward">Snabbspola</string>
+    <string name="folder_add_collection">Folder with multiple books</string>
+    <string name="folder_add_single_book">En bok</string>
+    <string name="for_example">t.ex</string>
+    <string name="min">%s min</string>
+    <string msgid="1685185767093348095" name="mr_button_content_description">"Cast-knappen"</string>
+    <string msgid="1350095112462806159" name="mr_cast_button_connected">"Cast-knappen. Ansluten"</string>
+    <string msgid="8959304318293841992" name="mr_cast_button_connecting">"Cast-knappen. Ansluter"</string>
+    <string msgid="5501231066847739632" name="mr_cast_button_disconnected">"Cast-knappen. Frånkopplad"</string>
+    <string msgid="5504553798429329689" name="mr_chooser_searching">"Letar efter enheter"</string>
+    <string msgid="7548226170787476564" name="mr_chooser_title">"Casta till"</string>
+    <string msgid="5813284753012893250" name="mr_controller_album_art">"Skivomslag"</string>
+    <string msgid="5286734709674025661" name="mr_controller_casting_screen">"Skärmen castas"</string>
+    <string msgid="5468775621814500662" name="mr_controller_close_description">"Stäng"</string>
+    <string msgid="5518911192681928413" name="mr_controller_collapse_group">"Dölj"</string>
+    <string msgid="1370654436555555647" name="mr_controller_disconnect">"Koppla från"</string>
+    <string msgid="2422682304043876468" name="mr_controller_expand_group">"Utöka"</string>
+    <string msgid="7299368841849988218" name="mr_controller_no_info_available">"Det finns ingen information"</string>
+    <string msgid="4342878516155861006" name="mr_controller_no_media_selected">"Ingen media har valts"</string>
+    <string msgid="4701315813294065305" name="mr_controller_pause">"Pausa"</string>
+    <string msgid="4443315438268112801" name="mr_controller_play">"Spela upp"</string>
+    <string msgid="5106056093749454009" name="mr_controller_stop">"Stopp"</string>
+    <string msgid="7617024847862349259" name="mr_controller_stop_casting">"Sluta casta"</string>
+    <string msgid="691656961160498512" name="mr_controller_volume_slider">"Volymreglage"</string>
+    <string msgid="3117964881088969586" name="mr_system_route_name">"System"</string>
+    <string msgid="8236416097133080726" name="mr_user_route_category_name">"Enheter"</string>
+    <string name="music_notification">Uppspelning</string>
+    <string name="network_top">Detta fungerade inte alltför väl…</string>
+    <string name="next_track">Nästa spår</string>
+    <string name="no_external_storage">Extern lagring är inte tillgänglig. Se till att den är ansluten och inte inkopplad i datorn.</string>
+    <string name="no_external_storage_action_bar_title">Extern lagring</string>
+    <string name="no_network">Inget nätverk?</string>
+    <string name="onboarding_content">Låt oss börja med att lägga till din första ljudbok.</string>
+    <string name="onboarding_title">Välkommen!</string>
+    <string name="pause">Pausa</string>
+    <string name="permission_external_new_explanation">Det går inte att läsa böcker utan tillstånd</string>
+    <string name="permission_goto_settings">Inställningar</string>
+    <string name="permission_read_ext_explanation">Appen måste läsa din lagring så att den kan hitta och spela upp ljudböcker.</string>
+    <string name="permission_read_ext_request">Ska vi fråga efter rättigheter igen?</string>
+    <string name="permission_rescan">Fråga igen</string>
+    <string name="permission_retry">Nytt försök?</string>
+    <string name="pick_book_cover">Omslag från Filsystem</string>
+    <string name="play">Spela</string>
+    <string name="play_current">Spela aktuell</string>
+    <string name="play_pause">Spela / Pausa</string>
+    <string name="playback_speed">Uppspelningshastighet</string>
+    <string name="popup_edit">ändra</string>
+    <string name="pref_auto_rewind_title">Automatisk återspolning</string>
+    <string name="pref_resume_after_call">Återuppta efter samtal</string>
+    <string name="pref_resume_after_call_hint">Återupptar uppspelningen efter ett samtal.</string>
+    <string name="pref_resume_on_replug">Återuppta uppspelning</string>
+    <string name="pref_resume_on_replug_hint">Om du pausade genom att koppla ur hörlurarna, återupptas det vid inkoppling.</string>
+    <string name="pref_root_folder_summary">Valda ljudboksmapparna.</string>
+    <string name="pref_root_folder_title">Ljudboksmapp</string>
+    <string name="pref_seek_time">Skippa mängd</string>
+    <string name="pref_support_contribute">Stöd och förslag</string>
+    <string name="pref_support_title">Support</string>
+    <string name="pref_support_translations">Översättningar</string>
+    <string name="pref_theme_day">Dag</string>
+    <string name="pref_theme_daynight">Dag/Natt</string>
+    <string name="pref_theme_night">Natt</string>
+    <string name="pref_theme_title">Tema</string>
+    <string name="previous_track">Föregående spår</string>
+    <string name="refresh">Uppdatera</string>
+    <string name="remove">Ta bort</string>
+    <string name="reset">Återställ</string>
+    <string name="rewind">Spola tillbaka</string>
+    <string msgid="368094699078615544" name="s1">"Spara bild"</string>
+    <string msgid="4550830452390689489" name="s2">"Tillåter du att annonsen sparar bilden i Bildgalleriet?"</string>
+    <string msgid="2435407834265420668" name="s3">"Godkänn"</string>
+    <string msgid="9167523597401839819" name="s4">"Godkänn inte"</string>
+    <string msgid="1566682516266724847" name="s5">"Skapa kalenderhändelse"</string>
+    <string msgid="5996672174517137271" name="s6">"Tillåter du att annonsen skapar en kalenderhändelse?"</string>
+    <string msgid="7163549807207034258" name="s7">"Testannons"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Sök"</string>
+    <string name="shake_to_reset">Skaka för att nollställa</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_all">Alla</string>
+    <string name="storage_pre_device">Lagring:</string>
+    <string name="volume_boost">Volymökning</string>
+</resources>

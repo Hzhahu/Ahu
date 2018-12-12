@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="pauses_after">
+        <item quantity="one">Pauser efter %d minut.</item>
+        <item quantity="other">Pauser efter %d minutter.</item>
+    </plurals>
+    <plurals name="pref_auto_rewind_summary">
+        <item quantity="one">Spoler automatisk %d sekund tilbage efter manuel pause.</item>
+        <item quantity="other">Spoler automatisk %d sekunder tilbage efter manuel pause.</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="one">%d sekund</item>
+        <item quantity="other">%d sekunder</item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Naviger hjem"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Naviger op"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Flere muligheder"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Luk"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Se alle"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Vælg en app"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"FRA"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"TIL"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Fn+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"mellemrum"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Søg…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Ryd forespørgslen"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Søgeforespørgsel"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Søg"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Indsend forespørgslen"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Talesøgning"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Del med"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Del med <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Skjul"</string>
+    <string name="acc_button_add_bookmark">Tilføjer et bogmærke ved den nuværende position</string>
+    <string name="action_settings">Indstillinger</string>
+    <string name="action_sleep">Sleep-Timer</string>
+    <string name="action_time_change">Hop til</string>
+    <string name="adding_failed_subfolder">Mapperne må ikke være undermapper af hinanden:</string>
+    <string name="audiobook_folders_title">Lydbogs mapper</string>
+    <string name="bookmark">Bogmærke</string>
+    <string name="bookmark_added">Bogmærke tilføjet</string>
+    <string name="bookmark_delete_title">Fjern dette bogmærke?</string>
+    <string name="bookmark_edit_hint">Bogmærke navn</string>
+    <string name="bookmark_edit_title">Rediger bogmærke</string>
+    <string name="change_book_name">Navn</string>
+    <string name="chosen_folder_description">Valgte mappe:</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> har problemer med Google Play-tjenester. Prøv igen."</string>
+    <string name="content_add_book">Tilføj en bog</string>
+    <string name="content_cover">Viser cover der kan vælges</string>
+    <string name="content_current_book">Dette er den aktuelle bog</string>
+    <string name="content_is_file">Fil</string>
+    <string name="content_is_folder">Mappe</string>
+    <string name="content_navigate_up">Gå til overordnet mappe</string>
+    <string name="content_next_cover">Vælger næste cover</string>
+    <string name="content_previous_cover">Vælger forrige cover</string>
+    <string name="cover">Cover</string>
+    <string name="cover_crop">Skær cover til</string>
+    <string name="current_book">Aktuelle bog</string>
+    <string name="delete_folder">Fjern fra biblioteket?</string>
+    <string name="delete_folder_content">Vil du fjerne den følgende mappe fra biblioteket?</string>
+    <string name="dialog_cancel">Annuller</string>
+    <string name="dialog_confirm">Sæt</string>
+    <string name="dialog_no">Nej</string>
+    <string name="download_book_cover">Cover fra internettet</string>
+    <string name="edit_book_title">Rediger bog</string>
+    <string name="equalizer">Equalizer</string>
+    <string name="fast_forward">Spol fremad</string>
+    <string name="folder_add_collection">Mappe med flere bøger</string>
+    <string name="folder_add_single_book">Enkelt bog</string>
+    <string name="for_example">f.eks.</string>
+    <string msgid="1685185767093348095" name="mr_button_content_description">"Cast-knap"</string>
+    <string msgid="1350095112462806159" name="mr_cast_button_connected">"Cast-knap. Der er oprettet forbindelse"</string>
+    <string msgid="8959304318293841992" name="mr_cast_button_connecting">"Cast-knap. Opretter forbindelse"</string>
+    <string msgid="5501231066847739632" name="mr_cast_button_disconnected">"Cast-knap. Forbindelsen er afbrudt"</string>
+    <string msgid="5504553798429329689" name="mr_chooser_searching">"Finder enheder"</string>
+    <string msgid="7548226170787476564" name="mr_chooser_title">"Cast til"</string>
+    <string msgid="5813284753012893250" name="mr_controller_album_art">"Albumgrafik"</string>
+    <string msgid="5286734709674025661" name="mr_controller_casting_screen">"Skærmen castes"</string>
+    <string msgid="5468775621814500662" name="mr_controller_close_description">"Luk"</string>
+    <string msgid="5518911192681928413" name="mr_controller_collapse_group">"Skjul"</string>
+    <string msgid="1370654436555555647" name="mr_controller_disconnect">"Afbryd forbindelse"</string>
+    <string msgid="2422682304043876468" name="mr_controller_expand_group">"Udvid"</string>
+    <string msgid="7299368841849988218" name="mr_controller_no_info_available">"Der er ingen tilgængelige oplysninger"</string>
+    <string msgid="4342878516155861006" name="mr_controller_no_media_selected">"Ingen medier er markeret"</string>
+    <string msgid="4701315813294065305" name="mr_controller_pause">"Sæt på pause"</string>
+    <string msgid="4443315438268112801" name="mr_controller_play">"Afspil"</string>
+    <string msgid="5106056093749454009" name="mr_controller_stop">"Stop"</string>
+    <string msgid="7617024847862349259" name="mr_controller_stop_casting">"Stop med at caste"</string>
+    <string msgid="691656961160498512" name="mr_controller_volume_slider">"Lydstyrkeskyder"</string>
+    <string msgid="3117964881088969586" name="mr_system_route_name">"System"</string>
+    <string msgid="8236416097133080726" name="mr_user_route_category_name">"Enheder"</string>
+    <string name="network_top">Dette fungerede ikke optimalt…</string>
+    <string name="next_track">Næste nummer</string>
+    <string name="no_external_storage">Ekstern hukommelse er ikke tilgængeligt. Tjek om det er tilsluttet og ikke mounted i din computer.</string>
+    <string name="no_external_storage_action_bar_title">Ekstern hukommelse</string>
+    <string name="no_network">Ingen netværk?</string>
+    <string name="pause">Pause</string>
+    <string name="permission_external_new_explanation">Kan ikke læse bøger uden tilladelse</string>
+    <string name="permission_goto_settings">Indstillinger</string>
+    <string name="permission_read_ext_explanation">Appen har brug for at læse din hukommelse, så den kan finde og afspille lydbøgerne.</string>
+    <string name="permission_read_ext_request">Skal vi spørge efter tilladelse igen?</string>
+    <string name="permission_rescan">Anmod igen</string>
+    <string name="permission_retry">Prøv igen?</string>
+    <string name="pick_book_cover">Cover fra filsystemet</string>
+    <string name="play">Afspil</string>
+    <string name="play_pause">Afspil / Pause</string>
+    <string name="playback_speed">Afspilningshastighed</string>
+    <string name="popup_edit">Rediger</string>
+    <string name="pref_auto_rewind_title">Auto tilbagespoling</string>
+    <string name="pref_resume_on_replug">Genoptag afspilning</string>
+    <string name="pref_resume_on_replug_hint">Hvis du pausede ved at trække høretelefoner ud, vil den fortsætte når det sættes i igen.</string>
+    <string name="pref_root_folder_summary">De valgte lydbogsmapper.</string>
+    <string name="pref_root_folder_title">Lydbogs mappe</string>
+    <string name="pref_seek_time">Spring over mængde</string>
+    <string name="pref_support_contribute">Support og forslag</string>
+    <string name="pref_support_title">Support</string>
+    <string name="pref_support_translations">Oversættelser</string>
+    <string name="pref_theme_day">Dag</string>
+    <string name="pref_theme_daynight">Dag / Nat</string>
+    <string name="pref_theme_night">Nat</string>
+    <string name="pref_theme_title">Tema</string>
+    <string name="previous_track">Forrige nummer</string>
+    <string name="refresh">Opfrisk</string>
+    <string name="remove">Fjern</string>
+    <string name="reset">Nulstil</string>
+    <string name="rewind">Spol tilbage</string>
+    <string msgid="368094699078615544" name="s1">"Gem billede"</string>
+    <string msgid="4550830452390689489" name="s2">"Vil du tillade, at annoncen gemmer billedet i Galleri?"</string>
+    <string msgid="2435407834265420668" name="s3">"Acceptér"</string>
+    <string msgid="9167523597401839819" name="s4">"Afvis"</string>
+    <string msgid="1566682516266724847" name="s5">"Opret kalenderbegivenhed"</string>
+    <string msgid="5996672174517137271" name="s6">"Vil du tillade, at annoncen opretter en kalenderbegivenhed?"</string>
+    <string msgid="7163549807207034258" name="s7">"Testannonce"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Søg"</string>
+    <string name="shake_to_reset">Ryst for at nulstille</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_all">Alt</string>
+    <string name="storage_pre_device">Hukommelse:</string>
+</resources>

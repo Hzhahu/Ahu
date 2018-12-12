@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\16685\\Desktop\\Voice-master\\app\\build\\intermediates\\incremental\\mergeOpensourceDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\16685\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0-rc01.aar\\4d6b1cf366c8e52a69e4443961d16726\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593",
+                        "endColumns": "69,83,83,95,101,101,93",
+                        "endOffsets": "120,204,288,384,486,588,682"
+                    },
+                    "to": {
+                        "startLines": "11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "681,751,835,919,1015,1117,1219",
+                        "endColumns": "69,83,83,95,101,101,93",
+                        "endOffsets": "746,830,914,1010,1112,1214,1308"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\16685\\Desktop\\Voice-master\\app\\src\\main\\res\\values-night\\colors.xml",
+                    "from": {
+                        "startLines": "8,15,10,7,3,5,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "261,617,355,202,82,153,437,522",
+                        "endColumns": "92,44,80,58,43,47,84,93",
+                        "endOffsets": "349,657,431,256,121,196,517,611"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,148,193,274,333,377,425,510",
+                        "endColumns": "92,44,80,58,43,47,84,93",
+                        "endOffsets": "143,188,269,328,372,420,505,599"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\16685\\Desktop\\Voice-master\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "from": {
+                        "startLines": "5,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "139,56",
+                        "endColumns": "76,81",
+                        "endOffsets": "211,133"
+                    },
+                    "to": {
+                        "startLines": "10,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "604,1313",
+                        "endColumns": "76,80",
+                        "endOffsets": "676,1389"
+                    }
+                }
+            ]
+        }
+    ]
+}

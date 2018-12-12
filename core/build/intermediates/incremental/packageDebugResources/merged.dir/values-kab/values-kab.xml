@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pauses_after">
+        <item quantity="one">Rǧu seld %d n tesdat.</item>
+        <item quantity="other">Rǧu seld %d n  tisdatin.</item>
+    </plurals>
+    <string name="content_current_book">Wagi d adlis amiran</string>
+    <string name="cover">Taduli</string>
+    <string name="current_book">Adlis amiran</string>
+    <string name="fast_forward">Ar zdat s zreb</string>
+    <string name="next_track">Tafuɣalt d-iteddun</string>
+    <string name="no_network">Ulac aẓeṭṭa?</string>
+    <string name="onboarding_title">Anṣuf!</string>
+    <string name="pause">Rǧu</string>
+    <string name="play">Ɣer</string>
+    <string name="play_pause">Play / Rǧu</string>
+    <string name="pref_theme_day">Ass</string>
+    <string name="pref_theme_daynight">Ass / Iḍ</string>
+    <string name="pref_theme_night">Iḍ</string>
+    <string name="pref_theme_title">Asentel</string>
+    <string name="previous_track">Tafuɣalt iɛeddan</string>
+    <string name="remove">Kkes</string>
+    <string name="reset">Ales awennez</string>
+</resources>

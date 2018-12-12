@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="pauses_after">
+        <item quantity="one">Pausiert nach %d Minute.</item>
+        <item quantity="other">Pausiert nach %d Minuten.</item>
+    </plurals>
+    <plurals name="pref_auto_rewind_summary">
+        <item quantity="one">Spult nach manuellem Pausieren automatisch um %d Sekunde zurück.</item>
+        <item quantity="other">Spult nach manuellem Pausieren automatisch um %d Sekunden zurück.</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="one">%d Sekunde</item>
+        <item quantity="other">%d Sekunden</item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Zur Startseite"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Nach oben"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Weitere Optionen"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Fertig"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Alle ansehen"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"App auswählen"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"Aus"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"An"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Strg +"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"Löschen"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"Eingabetaste"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Funktionstaste +"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta-Taste +"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Umschalttaste +"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"Leertaste +"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym-Taste +"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menütaste +"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Suchen…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Suchanfrage löschen"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Suchanfrage"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Suchen"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Suchanfrage senden"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Sprachsuche"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Freigeben für"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Mit <ns1:g id="APPLICATION_NAME">%s</ns1:g> teilen"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Minimieren"</string>
+    <string name="acc_button_add_bookmark">Fügt an der aktuellen Stelle ein Lesezeichen hinzu.</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="action_sleep">Einschlaf-Timer</string>
+    <string name="action_time_change">Zu Stelle springen</string>
+    <string name="adding_failed_subfolder">Die Ordner dürfen kein Unterordner von einander sein:</string>
+    <string name="audiobook_folders_title">Hörbuch Ordner</string>
+    <string name="bookmark">Lesezeichen</string>
+    <string name="bookmark_added">Lesezeichen hinzugefügt</string>
+    <string name="bookmark_delete_title">Möchten Sie dieses Lesezeichen löschen?</string>
+    <string name="bookmark_edit_hint">Lesezeichenname</string>
+    <string name="bookmark_edit_title">Lesezeichen bearbeiten</string>
+    <string name="change_book_name">Name</string>
+    <string name="chosen_folder_description">Gewählter Ordner: </string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> hat Probleme mit Google Play-Diensten. Bitte versuche es noch einmal."</string>
+    <string name="content_add_book">Buch hinzufügen</string>
+    <string name="content_cover">Zeigt aktuelles Cover an</string>
+    <string name="content_current_book">Dies ist das aktuelle Buch</string>
+    <string name="content_is_file">Datei</string>
+    <string name="content_is_folder">Ordner</string>
+    <string name="content_navigate_up">Zum übergeordneten Ordner</string>
+    <string name="content_next_cover">Wählt nächstes Cover</string>
+    <string name="content_previous_cover">Wählt voriges Cover</string>
+    <string name="cover">Cover</string>
+    <string name="cover_crop">Cover zurechtschneiden</string>
+    <string name="current_book">Aktuelles Buch</string>
+    <string name="delete_folder">Ordner entfernen</string>
+    <string name="delete_folder_content">Möchten Sie den folgenden Ordner aus Ihrer Bücherei entfernen?</string>
+    <string name="delete_last_number">Löscht die zuletzt eingegebene Zahl</string>
+    <string name="dialog_cancel">Abbrechen</string>
+    <string name="dialog_confirm">Okay</string>
+    <string name="dialog_no">Nein</string>
+    <string name="download_book_cover">Cover (Internet)</string>
+    <string name="edit_book_title">Buch bearbeiten</string>
+    <string name="equalizer">Equalizer</string>
+    <string name="fast_forward">Vorspulen</string>
+    <string name="folder_add_collection">Ordner mit mehreren Büchern</string>
+    <string name="folder_add_single_book">Einzelnes Buch</string>
+    <string name="for_example">z.B.</string>
+    <string name="min">%s min</string>
+    <string msgid="1685185767093348095" name="mr_button_content_description">"Cast-Symbol"</string>
+    <string msgid="1350095112462806159" name="mr_cast_button_connected">"Cast-Symbol. Verbunden."</string>
+    <string msgid="8959304318293841992" name="mr_cast_button_connecting">"Cast-Symbol. Verbindung wird hergestellt."</string>
+    <string msgid="5501231066847739632" name="mr_cast_button_disconnected">"Cast-Symbol. Nicht verbunden."</string>
+    <string msgid="5504553798429329689" name="mr_chooser_searching">"Geräte werden gesucht"</string>
+    <string msgid="7548226170787476564" name="mr_chooser_title">"Streamen auf"</string>
+    <string msgid="5813284753012893250" name="mr_controller_album_art">"Albumcover"</string>
+    <string msgid="5286734709674025661" name="mr_controller_casting_screen">"Bildschirm wird übertragen"</string>
+    <string msgid="5468775621814500662" name="mr_controller_close_description">"Schließen"</string>
+    <string msgid="5518911192681928413" name="mr_controller_collapse_group">"Minimieren"</string>
+    <string msgid="1370654436555555647" name="mr_controller_disconnect">"Trennen"</string>
+    <string msgid="2422682304043876468" name="mr_controller_expand_group">"Maximieren"</string>
+    <string msgid="7299368841849988218" name="mr_controller_no_info_available">"Keine Informationen verfügbar"</string>
+    <string msgid="4342878516155861006" name="mr_controller_no_media_selected">"Keine Medien ausgewählt"</string>
+    <string msgid="4701315813294065305" name="mr_controller_pause">"Pause"</string>
+    <string msgid="4443315438268112801" name="mr_controller_play">"Wiedergabe"</string>
+    <string msgid="5106056093749454009" name="mr_controller_stop">"Stopp"</string>
+    <string msgid="7617024847862349259" name="mr_controller_stop_casting">"Streaming beenden"</string>
+    <string msgid="691656961160498512" name="mr_controller_volume_slider">"Schieberegler für die Lautstärke"</string>
+    <string msgid="3117964881088969586" name="mr_system_route_name">"System"</string>
+    <string msgid="8236416097133080726" name="mr_user_route_category_name">"Geräte"</string>
+    <string name="music_notification">Musik</string>
+    <string name="network_top">Das lief nicht besonders gut…</string>
+    <string name="next_track">Nächster Song</string>
+    <string name="no_external_storage">Der externe Speicher ist nicht verfügbar. Prüfen Sie, ob Ihre Speicherkarte eingesteckt und nicht mit dem Computer verbunden ist.</string>
+    <string name="no_external_storage_action_bar_title">Externer Speicher</string>
+    <string name="no_network">Kein Internet?</string>
+    <string name="onboarding_content">Lass uns loslegen und dein erstes Hörbuch hinzufügen.</string>
+    <string name="onboarding_title">Willkommen!</string>
+    <string name="pause">Pause</string>
+    <string name="permission_external_new_explanation">Kann keine Bücher lesen</string>
+    <string name="permission_goto_settings">Einstellungen</string>
+    <string name="permission_read_ext_explanation">Die App benötigt Zugriff auf den externen Speicher, um die Hörbücher finden und abspielen zu können.</string>
+    <string name="permission_read_ext_request">Erneut nach der Berechtigung fragen?</string>
+    <string name="permission_rescan">Erneut nachfragen?</string>
+    <string name="permission_retry">Erneut versuchen?</string>
+    <string name="pick_book_cover">Cover (Lokal)</string>
+    <string name="play">Abspielen</string>
+    <string name="play_current">Spiel aktuelles</string>
+    <string name="play_pause">Play / Pause</string>
+    <string name="playback_speed">Geschwindigkeit</string>
+    <string name="popup_edit">Bearbeiten</string>
+    <string name="pref_auto_rewind_title">Automatisch zurückspulen</string>
+    <string name="pref_resume_after_call">Nach Anruf fortsetzen</string>
+    <string name="pref_resume_after_call_hint">Nimmt die Wiedergabe nach einem Anruf wieder auf.</string>
+    <string name="pref_resume_on_replug">Wiedergabe fortsetzen</string>
+    <string name="pref_resume_on_replug_hint">Nimmt die Wiedergabe beim Einstecken der Kopfhörer wieder auf.</string>
+    <string name="pref_root_folder_summary">Die gewählten Hörbuchordner.</string>
+    <string name="pref_root_folder_title">Hörbuch Ordner</string>
+    <string name="pref_seek_time">Vor- und zurückspulen</string>
+    <string name="pref_support_contribute">Support und Vorschläge</string>
+    <string name="pref_support_title">Support</string>
+    <string name="pref_support_translations">Übersetzungen</string>
+    <string name="pref_theme_day">Tag</string>
+    <string name="pref_theme_daynight">Tag / Nacht</string>
+    <string name="pref_theme_night">Nacht</string>
+    <string name="pref_theme_title">Thema</string>
+    <string name="previous_track">Voriger Song</string>
+    <string name="refresh">Neu laden</string>
+    <string name="remove">Löschen</string>
+    <string name="reset">Zurücksetzen</string>
+    <string name="rewind">Zurückspulen</string>
+    <string msgid="368094699078615544" name="s1">"Bild speichern"</string>
+    <string msgid="4550830452390689489" name="s2">"Der Werbeanzeige erlauben, das Bild in der Bildergalerie zu speichern?"</string>
+    <string msgid="2435407834265420668" name="s3">"Zustimmen"</string>
+    <string msgid="9167523597401839819" name="s4">"Ablehnen"</string>
+    <string msgid="1566682516266724847" name="s5">"Kalendertermin erstellen"</string>
+    <string msgid="5996672174517137271" name="s6">"Der Werbeanzeige erlauben, einen Kalendertermin zu erstellen?"</string>
+    <string msgid="7163549807207034258" name="s7">"Testanzeige"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Suchen"</string>
+    <string name="shake_to_reset">Schütteln zum Zurücksetzen</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_all">Alle</string>
+    <string name="storage_pre_device">Speicher:</string>
+    <string name="volume_boost">Lautstärke erhöhen</string>
+</resources>

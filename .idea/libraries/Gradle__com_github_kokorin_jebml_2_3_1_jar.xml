@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.kokorin:jebml:2.3.1@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.kokorin/jebml/2.3.1/6095b7450709b1ef7835ea74cd5acc6b1ca2f8a3/jebml-2.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.kokorin/jebml/2.3.1/c703c8f7a8d92994ffe8932cbc320fefe686e81/jebml-2.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

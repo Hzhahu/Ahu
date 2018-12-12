@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="pauses_after">
+        <item quantity="one">%d मिनट के बाद रुक जायेगा।</item>
+        <item quantity="other">%d मिनटों के बाद रुक जायेगा।</item>
+    </plurals>
+    <plurals name="pref_auto_rewind_summary">
+        <item quantity="one">पॉज़ करने पर अपने आप %d सेकंड रिवाइंड हो जायेगा।</item>
+        <item quantity="other">पॉज़ करने पर अपने आप %d सेकंड रिवाइंड हो जायेगा।</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="one">%d सेकंड</item>
+        <item quantity="other">%d सेकंड</item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"होम पेज पर जाएं"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"ऊपर जाएं"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"ज़्यादा विकल्प"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"हो गया"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"सभी देखें"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"कोई एप्‍लिकेशन चुनें"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"बंद"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"चालू"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"खोजा जा रहा है…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"क्‍वेरी साफ़ करें"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"सर्च क्वेरी"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"सर्च करें"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"क्वेरी सबमिट करें"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"आवाज़ सर्च"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"इसके साथ शेयर करें"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> के साथ शेयर करें"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"छोटा करें"</string>
+    <string name="acc_button_add_bookmark">वर्तमान पद पर बुकमार्क डालें</string>
+    <string name="action_settings">पसंदें</string>
+    <string name="action_sleep">नींद-टाइमर</string>
+    <string name="action_time_change">यहां से चलाएं</string>
+    <string name="adding_failed_subfolder">फोल्डर एक दुसरे के अंदर नहीं हो सकते</string>
+    <string name="audiobook_folders_title">ऑडिओबुक के फोल्डर</string>
+    <string name="bookmark">बुकमार्क</string>
+    <string name="bookmark_added">बुकमार्क डाला गया</string>
+    <string name="bookmark_delete_title">यह बुकमार्क हटाएं ?</string>
+    <string name="bookmark_edit_hint">बुकमार्क का नाम</string>
+    <string name="bookmark_edit_title">बुकमार्क सम्पादित करें</string>
+    <string name="change_book_name">नाम</string>
+    <string name="chosen_folder_description">चुना गया फोल्डर :</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> को Google Play सेवाओं के साथ समस्या आ रही है. कृपया फिर से कोशिश करें."</string>
+    <string name="content_add_book">किताब डालें </string>
+    <string name="content_cover">उपलब्ध कवर दिखाएँ</string>
+    <string name="content_current_book">यह वर्तमान किताब है</string>
+    <string name="content_is_file">फाइल </string>
+    <string name="content_is_folder">फोल्डर </string>
+    <string name="content_navigate_up">एक फोल्डर ऊपर जाएँ </string>
+    <string name="content_next_cover">अगला कवर इस्तेमाल करें</string>
+    <string name="content_previous_cover">पिछला कवर इस्तेमाल करें</string>
+    <string name="cover">कवर</string>
+    <string name="cover_crop">कवर काटें</string>
+    <string name="current_book">वर्तमान किताब</string>
+    <string name="delete_folder">लाइब्रेरी से हटाएं ?</string>
+    <string name="delete_folder_content">क्या आप यह फोल्डर लाइब्रेरी से हटाना चाहते हैं ?</string>
+    <string name="delete_last_number">पिछला डाला अंक डिलीट करेगा</string>
+    <string name="dialog_cancel">रहने दें</string>
+    <string name="dialog_confirm">सेट करें</string>
+    <string name="dialog_no">नहीं</string>
+    <string name="download_book_cover">इंटरनेट से कवर तस्वीर डालें</string>
+    <string name="edit_book_title">किताब में बदलाव करें</string>
+    <string name="equalizer">ध्वनी प्रभाव</string>
+    <string name="fast_forward">आगे बढ़ें</string>
+    <string name="folder_add_collection">अनेक किताबों वाला फोल्डर</string>
+    <string name="folder_add_single_book">एक किताब</string>
+    <string name="for_example">जैसे की : </string>
+    <string name="min">%s मिनट</string>
+    <string msgid="1685185767093348095" name="mr_button_content_description">"कास्ट बटन"</string>
+    <string msgid="1350095112462806159" name="mr_cast_button_connected">"कास्ट बटन. कनेक्ट हो गया"</string>
+    <string msgid="8959304318293841992" name="mr_cast_button_connecting">"कास्ट बटन. कनेक्ट हो रहा है"</string>
+    <string msgid="5501231066847739632" name="mr_cast_button_disconnected">"कास्ट बटन. डिसकनेक्ट हो गया"</string>
+    <string msgid="5504553798429329689" name="mr_chooser_searching">"डिवाइस ढूंढे जा रहे हैं"</string>
+    <string msgid="7548226170787476564" name="mr_chooser_title">"इस पर कास्‍ट करें"</string>
+    <string msgid="5813284753012893250" name="mr_controller_album_art">"एल्बम आर्ट"</string>
+    <string msgid="5286734709674025661" name="mr_controller_casting_screen">"स्क्रीन कास्ट की जा रही है"</string>
+    <string msgid="5468775621814500662" name="mr_controller_close_description">"बंद करें"</string>
+    <string msgid="5518911192681928413" name="mr_controller_collapse_group">"छोटा करें"</string>
+    <string msgid="1370654436555555647" name="mr_controller_disconnect">"डिसकनेक्ट करें"</string>
+    <string msgid="2422682304043876468" name="mr_controller_expand_group">"बड़ा करके देखें"</string>
+    <string msgid="7299368841849988218" name="mr_controller_no_info_available">"कोई जानकारी मौजूद नहीं है"</string>
+    <string msgid="4342878516155861006" name="mr_controller_no_media_selected">"कोई मीडिया नहीं चुना गया"</string>
+    <string msgid="4701315813294065305" name="mr_controller_pause">"रोकें"</string>
+    <string msgid="4443315438268112801" name="mr_controller_play">"चलाएं"</string>
+    <string msgid="5106056093749454009" name="mr_controller_stop">"बंद करें"</string>
+    <string msgid="7617024847862349259" name="mr_controller_stop_casting">"कास्ट करना रोकें"</string>
+    <string msgid="691656961160498512" name="mr_controller_volume_slider">"आवाज़ बढ़ाने या घटाने वाला स्लाइडर"</string>
+    <string msgid="3117964881088969586" name="mr_system_route_name">"सिस्टम"</string>
+    <string msgid="8236416097133080726" name="mr_user_route_category_name">"डिवाइस"</string>
+    <string name="network_top">यह सही से नहीं चला…</string>
+    <string name="next_track">अगला ट्रैक</string>
+    <string name="no_external_storage">बाहरी स्टोरेज उपलभ्ध नहीं है। कृपया बाहरी स्टोरेज की जांच करें ।</string>
+    <string name="no_external_storage_action_bar_title">बाहरी स्टोरेज</string>
+    <string name="no_network">नेटवर्क नहीं है?</string>
+    <string name="pause">रोकें</string>
+    <string name="permission_external_new_explanation">बिना अनुमति के किताबें नहीं पढ़ी जा सकतीं </string>
+    <string name="permission_goto_settings">सेटिंग</string>
+    <string name="permission_read_ext_explanation">इस ऐप को किताबें पढने के लिए स्टोरेज पढने की आवश्यकता चाहिए।</string>
+    <string name="permission_read_ext_request">दोबारा अनुमति लेने का प्रयास किया जाए ?</string>
+    <string name="permission_rescan">दोबारा अनुमति मांगी जाए ?</string>
+    <string name="permission_retry">दोबारा प्रयास किया जाए ?</string>
+    <string name="pick_book_cover">फोन से कवर तस्वीर डालें</string>
+    <string name="play">चलायें</string>
+    <string name="play_current">मौजूदा चलायें</string>
+    <string name="play_pause">चलायें / रोकें</string>
+    <string name="playback_speed">प्लेबैक की गति</string>
+    <string name="popup_edit">संपादन</string>
+    <string name="pref_auto_rewind_title">अपने आप रिवाइंड</string>
+    <string name="pref_resume_after_call">कॉल कटने के बाद पुनः प्लेबैक आरम्भ करे</string>
+    <string name="pref_resume_after_call_hint">कॉल कटने के बाद प्लेबैक पुनः आरम्भ होगा ।</string>
+    <string name="pref_resume_on_replug">प्लेबैक पुनः आरम्भ करें</string>
+    <string name="pref_resume_on_replug_hint">अगर आपने हेडसेट निकल कर पॉज़ किया, तो वापस लगाने पर पुनः आरम्भ होगा।</string>
+    <string name="pref_root_folder_summary">चुने गए किताबों वाले फोल्डर</string>
+    <string name="pref_root_folder_title">किताबों का फोल्डर</string>
+    <string name="pref_seek_time">आगे कूदने की मात्रा</string>
+    <string name="pref_support_contribute">सुझाव और सहायता</string>
+    <string name="pref_support_title">सहायता</string>
+    <string name="pref_support_translations">अनुवाद</string>
+    <string name="pref_theme_day">दिन</string>
+    <string name="pref_theme_daynight">दिन / रात</string>
+    <string name="pref_theme_night">रात</string>
+    <string name="pref_theme_title">थीम</string>
+    <string name="previous_track">पिछला ट्रैक</string>
+    <string name="refresh">ताज़ा करें</string>
+    <string name="remove">हटाएं</string>
+    <string name="reset">रिसेट करें</string>
+    <string name="rewind">पीछे जाएँ</string>
+    <string msgid="368094699078615544" name="s1">"इमेज सेव करें"</string>
+    <string msgid="4550830452390689489" name="s2">"विज्ञापन को तस्वीर गैलरी में इमेज सेव करने का अनुमति देना चाहते हैं?"</string>
+    <string msgid="2435407834265420668" name="s3">"मंज़ूरी दें"</string>
+    <string msgid="9167523597401839819" name="s4">"खारिज करें"</string>
+    <string msgid="1566682516266724847" name="s5">"कैलेंडर इवेंट बनाएं"</string>
+    <string msgid="5996672174517137271" name="s6">"विज्ञापन को कैलेंडर इवेंट बनाने दें?"</string>
+    <string msgid="7163549807207034258" name="s7">"जाँच विज्ञापन"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"सर्च"</string>
+    <string name="shake_to_reset">हिला के रिसेट</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_all">सारा </string>
+    <string name="storage_pre_device">स्टोरेज : </string>
+</resources>
